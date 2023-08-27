@@ -1,2 +1,2 @@
-# kayasukru.github.com
+# kayasukru.github.io
 Şükrü Kaya
